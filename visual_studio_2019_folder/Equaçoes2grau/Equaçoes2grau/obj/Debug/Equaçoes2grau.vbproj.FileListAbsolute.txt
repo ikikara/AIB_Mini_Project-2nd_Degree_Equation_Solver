@@ -1,0 +1,98 @@
+c:\users\hugo\documents\visual studio 2012\Projects\Equaçoes2grau\Equaçoes2grau\bin\Debug\Equaçoes2grau.exe.config
+c:\users\hugo\documents\visual studio 2012\Projects\Equaçoes2grau\Equaçoes2grau\bin\Debug\Equaçoes2grau.exe
+c:\users\hugo\documents\visual studio 2012\Projects\Equaçoes2grau\Equaçoes2grau\bin\Debug\Equaçoes2grau.pdb
+c:\users\hugo\documents\visual studio 2012\Projects\Equaçoes2grau\Equaçoes2grau\bin\Debug\Equaçoes2grau.xml
+c:\users\hugo\documents\visual studio 2012\Projects\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form1.resources
+c:\users\hugo\documents\visual studio 2012\Projects\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Resources.resources
+c:\users\hugo\documents\visual studio 2012\Projects\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.vbproj.GenerateResource.Cache
+c:\users\hugo\documents\visual studio 2012\Projects\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.exe
+c:\users\hugo\documents\visual studio 2012\Projects\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.xml
+c:\users\hugo\documents\visual studio 2012\Projects\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.pdb
+c:\users\hugo\documents\visual studio 2012\Projects\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form2.resources
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form3.resources
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form6.resources
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form7.resources
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form8.resources
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form9.resources
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form10.resources
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form11.resources
+C:\Users\Hugo\Documents\Visual Studio 2012\Projects\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form4.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Equaçoes2grau\Equaçoes2grau\bin\Debug\Equaçoes2grau.exe.config
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.exe
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.xml
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.pdb
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Equaçoes2grau\Equaçoes2grau\bin\Debug\Equaçoes2grau.exe
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Equaçoes2grau\Equaçoes2grau\bin\Debug\Equaçoes2grau.pdb
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Equaçoes2grau\Equaçoes2grau\bin\Debug\Equaçoes2grau.xml
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form1.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form10.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form11.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form2.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form3.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form4.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form6.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form7.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form8.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form9.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Resources.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\Fichas\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.vbproj.GenerateResource.Cache
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\bin\Debug\Equaçoes2grau.exe.config
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.exe
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.xml
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.pdb
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\bin\Debug\Equaçoes2grau.exe
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\bin\Debug\Equaçoes2grau.pdb
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\bin\Debug\Equaçoes2grau.xml
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form1.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form10.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form11.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form2.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form3.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form4.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form6.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form7.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form8.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form9.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Resources.resources
+C:\Users\Hugo\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.vbproj.GenerateResource.Cache
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\bin\Debug\Equaçoes2grau.exe.config
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\bin\Debug\Equaçoes2grau.exe
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\bin\Debug\Equaçoes2grau.pdb
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\bin\Debug\Equaçoes2grau.xml
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.vbprojAssemblyReference.cache
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form1.resources
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form10.resources
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form11.resources
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form2.resources
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form3.resources
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form4.resources
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form6.resources
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form7.resources
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form8.resources
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form9.resources
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Resources.resources
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.vbproj.GenerateResource.cache
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.vbproj.CoreCompileInputs.cache
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.exe
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.xml
+C:\Users\Ikiru\Desktop\Escola\Apresentações e Recursos\Ano lectivo 2018-2019(12º)\Aplicações Informáticas\1ºPeriodo\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.pdb
+C:\Users\Ikiru\Desktop\Visual Basic\Equaçoes2grau\Equaçoes2grau\bin\Debug\Equaçoes2grau.exe.config
+C:\Users\Ikiru\Desktop\Visual Basic\Equaçoes2grau\Equaçoes2grau\bin\Debug\Equaçoes2grau.exe
+C:\Users\Ikiru\Desktop\Visual Basic\Equaçoes2grau\Equaçoes2grau\bin\Debug\Equaçoes2grau.pdb
+C:\Users\Ikiru\Desktop\Visual Basic\Equaçoes2grau\Equaçoes2grau\bin\Debug\Equaçoes2grau.xml
+C:\Users\Ikiru\Desktop\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.vbprojAssemblyReference.cache
+C:\Users\Ikiru\Desktop\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form1.resources
+C:\Users\Ikiru\Desktop\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form10.resources
+C:\Users\Ikiru\Desktop\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form11.resources
+C:\Users\Ikiru\Desktop\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form2.resources
+C:\Users\Ikiru\Desktop\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form3.resources
+C:\Users\Ikiru\Desktop\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form4.resources
+C:\Users\Ikiru\Desktop\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form6.resources
+C:\Users\Ikiru\Desktop\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form7.resources
+C:\Users\Ikiru\Desktop\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form8.resources
+C:\Users\Ikiru\Desktop\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Form9.resources
+C:\Users\Ikiru\Desktop\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.Resources.resources
+C:\Users\Ikiru\Desktop\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.vbproj.GenerateResource.cache
+C:\Users\Ikiru\Desktop\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.exe
+C:\Users\Ikiru\Desktop\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.xml
+C:\Users\Ikiru\Desktop\Visual Basic\Equaçoes2grau\Equaçoes2grau\obj\Debug\Equaçoes2grau.pdb
