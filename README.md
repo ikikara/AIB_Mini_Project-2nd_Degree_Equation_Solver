@@ -8,7 +8,7 @@
 - [Authors](#authors)
 
 ## Description
-Project developed for Informatics Applications B subject @José Falcão, 12th grade.<br>
+Project developed for Informatics Applications B subject @josé Falcão, Coimbra, 12th grade. <br>
 This project consists in develope a program that calculates 2nd degree equations.<br>
 #### Main Languages:
 ![](https://img.shields.io/badge/Visual_Basic-333333?style=flat&logo=VisualStudio&logoColor=8332E1)
