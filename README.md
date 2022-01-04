@@ -1,5 +1,6 @@
 # APB_Project-2nd_Degree_Equation_Solver 
-- [ ] Finished
+- [x] Finished
+
 ## Index
 - [Description](#description)
 - [Technologies used](#technologies-used)
