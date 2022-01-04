@@ -20,7 +20,9 @@ This project consists in develope a program that calculates 2nd degree equations
 You have two ways to run this project:
 1. Download on folder "bin" and simply run the file Equaçoes2grau.exe by clicking it.
 <br> Or <br>
-2. Download the folder "visual_studio_2019_folder", open the folder "Equaçoes2grau" (that is inside of the first folder refered) and open the file "Equaçoes2grau.sln" with Visual Studio 2019.
+2. Download the folder "visual_studio_2019_folder", open the folder "Equaçoes2grau" (that is inside of the first folder refered) and open the file "Equaçoes2grau.sln" with Visual Studio 2019.<br>
+   Finally just press the "Start" button and run it.<br><br>
+   ![image](https://user-images.githubusercontent.com/82664001/147995993-7b0bb92f-d8bd-4cd4-9d1e-99898d99dcbc.png)
 
 ## Authors:
 - [João Silva](https://github.com/ikikara)
